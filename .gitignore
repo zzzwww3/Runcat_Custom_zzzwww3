@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+[Ll]og/
+[Ll]ogs/
+.DS_Store
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
