@@ -32,3 +32,7 @@
 <!-- Please do not delete the below comment. -->
 <!-- CREATED_BY_LEADYOU_README_GENERATOR -->
 
+# Custom
+
+원래 고양이와 앵무새밖에 없었지만 강아지와 사람을 추가 했다. 학생때 배웠던 기억을 살려 추가 할 수 있을지 궁금해서 사진 몇장 넣은거라 퀄리티는 낮다.
+
